@@ -6,9 +6,9 @@
 //
 
 import XCTest
-@testable import scrumDinger
+@testable import Scrumdinger
 
-final class scrumDingerTests: XCTestCase {
+final class ScrumdingerTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

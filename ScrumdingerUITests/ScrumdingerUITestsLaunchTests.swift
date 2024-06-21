@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class scrumDingerUITestsLaunchTests: XCTestCase {
+final class ScrumdingerUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
